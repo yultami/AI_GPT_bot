@@ -1,7 +1,7 @@
-#django's key
+#django key
 secret_key=key
 
-#bot's token
+#bot token
 token_bot=token
 
 #api key ai
